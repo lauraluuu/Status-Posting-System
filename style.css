@@ -1,0 +1,25 @@
+h1 {
+  display: block;
+  color: blue;
+  margin-bottom: 2ex;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 32px;
+  }
+
+h2, h3, h4, h5, h6 {
+  display: block;
+  color: #00BFFF;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+body {
+  color: black;
+  background-color: white;
+  margin-bottom: 12ex;
+  font-family: Verdana;
+  font-size: 14px;
+  
+}
+
